@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quantum Chromodynamics",
+  "universe": "QRK · Quantum Chromodynamics (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦Quantum Chromodynamics:QRK:0085ad⟧",
+  "carbon": "quantum-chromodynamics.carbon.tiff (TIFF)",
+  "silicon": "quantum-chromodynamics.silicon.png (PNG)",
+  "seal_sha256": "1d259d17c7c25c95b7b12ba93714844844e7635b4483022aaaa4bbcdfacfb726",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

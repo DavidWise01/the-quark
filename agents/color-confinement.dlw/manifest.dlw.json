@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Colour Confinement",
+  "universe": "QRK · Colour Confinement (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦Colour Confinement:QRK:52ec0d⟧",
+  "carbon": "color-confinement.carbon.tiff (TIFF)",
+  "silicon": "color-confinement.silicon.png (PNG)",
+  "seal_sha256": "63028b4fe230793af3a6f1553c6e8e6318b5578af1f58af536a4411c666af2b6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

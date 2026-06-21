@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Quark",
+  "universe": "QRK · The Quark (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Quark:QRK:9b8691⟧",
+  "carbon": "the-quark-particle.carbon.tiff (TIFF)",
+  "silicon": "the-quark-particle.silicon.png (PNG)",
+  "seal_sha256": "73688b700dcee4c22a94a4d02d36cc98de023635d2abf0b611b9e1cdf57e4b63",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

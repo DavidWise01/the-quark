@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Gluon",
+  "universe": "QRK · The Gluon (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Gluon:QRK:dd27e1⟧",
+  "carbon": "the-gluon.carbon.tiff (TIFF)",
+  "silicon": "the-gluon.silicon.png (PNG)",
+  "seal_sha256": "9b0462a6d0c84c769879e7ed83100e6ef7f3c5a9b6e356184d63b231974474aa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

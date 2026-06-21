@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flux Tube",
+  "universe": "QRK · The Flux Tube (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Flux Tube:QRK:a269e3⟧",
+  "carbon": "the-flux-tube.carbon.tiff (TIFF)",
+  "silicon": "the-flux-tube.silicon.png (PNG)",
+  "seal_sha256": "8cf387ef8c248c0d23fd6fc2905f468dbe746287784ef709393023700bbeb1b2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

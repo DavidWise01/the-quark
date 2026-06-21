@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "the-quark-particle",
+    "name": "The Quark",
+    "epithet": "the held thing · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Quark:QRK:9b8691⟧"
+  },
+  {
+    "slug": "the-gluon",
+    "name": "The Gluon",
+    "epithet": "the strong force, carried · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Gluon:QRK:dd27e1⟧"
+  },
+  {
+    "slug": "color-confinement",
+    "name": "Colour Confinement",
+    "epithet": "never alone · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Colour Confinement:QRK:52ec0d⟧"
+  },
+  {
+    "slug": "the-flux-tube",
+    "name": "The Flux Tube",
+    "epithet": "the band of force · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Flux Tube:QRK:a269e3⟧"
+  },
+  {
+    "slug": "the-proton",
+    "name": "The Proton",
+    "epithet": "what they build · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Proton:QRK:24cb1a⟧"
+  },
+  {
+    "slug": "quantum-chromodynamics",
+    "name": "Quantum Chromodynamics",
+    "epithet": "the theory of colour · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Quantum Chromodynamics:QRK:0085ad⟧"
+  }
+]
